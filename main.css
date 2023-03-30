@@ -1,0 +1,15 @@
+header h1{
+    text-align: center;
+}
+
+#carousel-fotos .carousel-inner{
+    height: 70vh;
+}
+
+.card{
+    align-items: center;
+}
+
+html{
+    overflow-x: hidden;
+}
